@@ -1,4 +1,4 @@
-# ML_Project
+# ML_Travel_Reviews
 
 #### By: Alejandra Pimentel, Danielle Steede, Eduardo Silva, Ishwarya Sundhararajan 
 
